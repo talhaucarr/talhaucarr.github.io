@@ -1,8 +1,15 @@
 <style>
 
-.body {
+body {
   background-color: rgb(44,47,51);
   }
+  h1,h2,h3{
+  color:white;
+  }
+p{
+  color:white;
+  width: 40%;
+}
 .card {
 
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
