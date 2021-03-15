@@ -1,8 +1,9 @@
 <style>
 
-.body {
-  background-color: rgb(44,47,51);
-  }
+.h1,h2,h3{
+  color:white;
+}
+
 .card {
 
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -20,7 +21,19 @@
 .box{
   border: 3px;
 }
-.center{
-
+.inline-block-test{
+  color:white;
+  display: inline-block;
+  width: 500px;
+  height: 0px;
 }
+
+.block-test{
+  display: block;
+  line-height: 75px;
+  font-size: 50px;
+  font-weight: bold;
+  color:black;
+}
+
 </style>
